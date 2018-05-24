@@ -1,0 +1,925 @@
+success		1       0       1       17      1       0       22341.22  50      0.0      ms
+success		1       1       1       17      1       0       22318.96  49      0.0      ms
+success		1       2       1       40      1       0       22036.14  48      0.0      ms
+success		1       3       1       17      1       0       21424.73  47      0.0      ms
+success		1       4       1       13      1       0       21082.44  46      0.0      ms
+success		1       5       1       12      1       0       20708.14  45      0.0      ms
+success		1       6       1       9       1       0       20322.46  44      0.0      ms
+success		1       7       1       4       1       0       20308.25  43      0.0      ms
+success		1       8       1       9       1       0       19669.63  42      0.0      ms
+success		1       9       1       16      1       0       19302.38  41      0.0      ms
+success		1       10      1       38      1       0       19063.90  40      0.0      ms
+success		1       11      1       37      1       0       18454.45  39      0.0      ms
+success		1       12      2       9       2       0       18149.82  38      0.0      ms
+success		1       13      1       11      1       0       17636.98  37      0.0      ms
+success		1       14      1       20      1       0       17295.59  36      0.0      ms
+success		1       15      2       12      2       0       16905.68  35      0.0      ms
+success		1       16      1       34      1       0       16688.60  34      0.0      ms
+success		1       17      2       11      2       0       16384.81  33      0.0      ms
+success		1       18      1       8       1       0       15850.77  32      0.0      ms
+success		1       19      1       29      1       0       15632.19  31      0.0      ms
+success		1       20      2       26      2       0       15433.72  30      0.0      ms
+success		1       21      2       9       2       0       14694.35  29      0.0      ms
+success		1       22      1       9       1       0       14091.75  28      0.0      ms
+success		1       23      1       1       1       0       13816.06  27      0.0      ms
+success		1       24      2       9       2       0       13431.95  26      0.0      ms
+success		1       25      3       15      3       0       12654.90  25      0.0      ms
+success		1       26      4       10      4       0       12229.54  24      0.0      ms
+success		1       27      2       19      2       0       11781.12  23      0.0      ms
+success		1       28      1       16      1       0       11626.30  22      0.0      ms
+success		1       29      2       8       2       0       11028.23  21      0.0      ms
+success		1       30      1       20      1       0       10889.14  20      0.0      ms
+success		1       31      3       15      3       0       10354.43  19      0.0      ms
+success		1       32      1       16      1       0       9979.60   18      0.0      ms
+success		1       33      2       10      2       0       9604.51   17      0.0      ms
+success		1       34      2       5       2       0       8707.33   16      0.0      ms
+success		1       35      3       10      3       0       8174.66   15      0.0      ms
+success		1       36      1       9       1       0       7810.66   14      0.0      ms
+success		1       37      5       2       5       0       7515.38   13      0.0      ms
+success		1       38      3       2       3       0       7285.39   12      0.0      ms
+success		1       39      4       8       3       0       7560.22   11      16.0     ms
+success		1       40      7       6       7       0       6565.66   10      16.0     ms
+success		1       41      5       4       5       0       5698.42   9       16.0     ms
+success		1       42      8       5       6       0       5348.93   8       16.0     ms
+success		1       43      14      7       8       0       4699.88   7       31.0     ms
+success		1       44      32      5       7       0       4052.28   6       125.0    ms
+success		1       0       1       11      1       0       25129.83  50      1716.0   ms
+success		1       1       1       25      1       0       24894.48  49      1716.0   ms
+success		1       2       1       7       1       0       24077.77  48      1716.0   ms
+success		1       3       1       6       1       0       23412.72  47      1716.0   ms
+success		1       4       2       35      2       0       23712.65  46      1716.0   ms
+success		1       5       1       2       1       0       23210.68  45      1716.0   ms
+success		1       6       1       16      1       0       22779.18  44      1716.0   ms
+success		1       7       2       1       2       0       22465.78  43      1716.0   ms
+success		1       8       1       24      1       0       22009.52  42      1716.0   ms
+success		1       9       1       39      1       0       21534.87  41      1716.0   ms
+success		1       10      1       25      1       0       20817.83  40      1716.0   ms
+success		1       11      1       19      1       0       20456.29  39      1716.0   ms
+success		1       12      2       8       2       0       19697.36  38      1716.0   ms
+success		1       13      1       23      1       0       19311.02  37      1716.0   ms
+success		1       14      1       31      1       0       18718.68  36      1716.0   ms
+success		1       15      1       25      1       0       17888.04  35      1716.0   ms
+success		1       16      2       34      2       0       17616.21  34      1716.0   ms
+success		1       17      1       22      1       0       17274.47  33      1716.0   ms
+success		1       18      1       3       1       0       16918.20  32      1716.0   ms
+success		1       19      1       21      1       0       16396.65  31      1716.0   ms
+success		1       20      1       22      1       0       15905.08  30      1716.0   ms
+success		1       21      3       15      3       0       15686.16  29      1716.0   ms
+success		1       22      3       24      3       0       15171.47  28      1716.0   ms
+success		1       23      4       6       4       0       14475.09  27      1716.0   ms
+success		1       24      2       18      2       0       13935.36  26      1716.0   ms
+success		1       25      1       13      1       0       13782.24  25      1716.0   ms
+success		1       26      3       22      3       0       13322.90  24      1716.0   ms
+success		1       27      1       5       1       0       12640.59  23      1716.0   ms
+success		1       28      2       6       2       0       11962.47  22      1716.0   ms
+success		1       29      2       12      2       0       11547.87  21      1716.0   ms
+success		1       30      4       10      4       0       10809.27  20      1716.0   ms
+success		1       31      1       3       1       0       10470.48  19      1716.0   ms
+success		1       32      2       9       2       0       10045.61  18      1716.0   ms
+success		1       33      2       3       2       0       9793.47   17      1716.0   ms
+success		1       34      3       0       3       0       9162.35   16      1716.0   ms
+success		1       35      2       6       2       0       8767.42   15      1716.0   ms
+success		1       36      3       9       3       0       8263.38   14      1716.0   ms
+success		1       37      4       3       4       0       7530.57   13      1716.0   ms
+success		1       38      3       1       3       0       7063.39   12      1716.0   ms
+success		1       39      4       3       4       0       6618.57   11      1716.0   ms
+success		1       40      7       4       7       0       5860.72   10      1716.0   ms
+success		1       41      7       5       5       0       5839.63   9       1716.0   ms
+success		1       42      8       7       5       0       5617.05   8       1716.0   ms
+success		1       43      9       5       7       0       4594.11   7       1732.0   ms
+success		1       44      21      6       6       0       4023.03   6       1763.0   ms
+success		1       0       1       49      1       0       25378.39  50      2824.0   ms
+success		1       1       1       49      1       0       24998.91  49      2824.0   ms
+success		1       2       2       34      2       0       24553.67  48      2824.0   ms
+success		1       3       1       39      1       0       23688.26  47      2824.0   ms
+success		1       4       1       3       1       0       22834.06  46      2824.0   ms
+success		1       5       1       23      1       0       22325.86  45      2824.0   ms
+success		1       6       1       18      1       0       21557.00  44      2824.0   ms
+success		1       7       2       8       2       0       21482.66  43      2824.0   ms
+success		1       8       1       37      1       0       20971.86  42      2824.0   ms
+success		1       9       1       31      1       0       20321.24  41      2824.0   ms
+success		1       10      1       13      1       0       19844.41  40      2824.0   ms
+success		1       11      1       32      1       0       19200.42  39      2824.0   ms
+success		1       12      2       24      2       0       19017.84  38      2824.0   ms
+success		1       13      1       37      1       0       18283.38  37      2824.0   ms
+success		1       14      1       5       1       0       17889.99  36      2824.0   ms
+success		1       15      2       32      2       0       17547.95  35      2824.0   ms
+success		1       16      2       0       2       0       17174.77  34      2824.0   ms
+success		1       17      2       3       2       0       16790.14  33      2824.0   ms
+success		1       18      3       4       3       0       16192.00  32      2824.0   ms
+success		1       19      1       8       1       0       15930.25  31      2824.0   ms
+success		1       20      4       7       4       0       15822.84  30      2824.0   ms
+success		1       21      1       27      1       0       15278.66  29      2824.0   ms
+success		1       22      1       22      1       0       14807.31  28      2824.0   ms
+success		1       23      1       15      1       0       14593.60  27      2824.0   ms
+success		1       24      2       13      2       0       13887.72  26      2824.0   ms
+success		1       25      2       7       2       0       13344.55  25      2824.0   ms
+success		1       26      3       8       3       0       12680.60  24      2824.0   ms
+success		1       27      2       7       2       0       12296.75  23      2824.0   ms
+success		1       28      4       9       4       0       11799.99  22      2824.0   ms
+success		1       29      3       1       3       0       11213.26  21      2824.0   ms
+success		1       30      4       14      4       0       10501.19  20      2824.0   ms
+success		1       31      5       14      5       0       10558.86  19      2824.0   ms
+success		1       32      2       16      2       0       10113.88  18      2824.0   ms
+success		1       33      3       0       3       0       9537.77   17      2824.0   ms
+success		1       34      3       11      3       0       9150.56   16      2824.0   ms
+success		1       35      5       11      5       0       8788.25   15      2824.0   ms
+success		1       36      2       6       2       0       8222.47   14      2824.0   ms
+success		1       37      3       10      3       0       7694.06   13      2824.0   ms
+success		1       38      2       6       2       0       7357.39   12      2824.0   ms
+success		1       39      5       2       4       0       7336.30   11      2824.0   ms
+success		1       40      8       9       8       0       6487.64   10      2824.0   ms
+success		1       41      5       1       4       0       6252.52   9       2824.0   ms
+success		1       42      13      6       8       0       5221.23   8       2824.0   ms
+success		1       43      12      4       5       0       4674.29   7       2839.0   ms
+success		1       44      68      4       10      0       4180.77   6       2933.0   ms
+success		1       0       1       43      1       0       25389.36  50      3916.0   ms
+success		1       1       1       9       1       0       24610.90  49      3916.0   ms
+success		1       2       1       32      1       0       23830.03  48      3916.0   ms
+success		1       3       1       43      1       0       23746.11  47      3916.0   ms
+success		1       4       1       8       1       0       23367.13  46      3916.0   ms
+success		1       5       1       7       1       0       22511.49  45      3916.0   ms
+success		1       6       1       2       1       0       21987.08  44      3916.0   ms
+success		1       7       1       13      1       0       21541.63  43      3916.0   ms
+success		1       8       1       26      1       0       21115.62  42      3916.0   ms
+success		1       9       1       31      1       0       20688.72  41      3916.0   ms
+success		1       10      1       0       1       0       20459.93  40      3916.0   ms
+success		1       11      2       18      2       0       19883.73  39      3916.0   ms
+success		1       12      2       27      2       0       19779.30  38      3916.0   ms
+success		1       13      1       31      1       0       19262.42  37      3916.0   ms
+success		1       14      1       6       1       0       18596.12  36      3916.0   ms
+success		1       15      2       2       2       0       17997.20  35      3916.0   ms
+success		1       16      3       33      3       0       17512.60  34      3916.0   ms
+success		1       17      1       22      1       0       17061.12  33      3916.0   ms
+success		1       18      1       29      1       0       16888.22  32      3916.0   ms
+success		1       19      1       19      1       0       16141.03  31      3916.0   ms
+success		1       20      1       17      1       0       16032.43  30      3916.0   ms
+success		1       21      1       22      1       0       15302.68  29      3916.0   ms
+success		1       22      2       15      2       0       14677.20  28      3916.0   ms
+success		1       23      2       15      2       0       14335.87  27      3916.0   ms
+success		1       24      4       1       4       0       13905.00  26      3916.0   ms
+success		1       25      3       8       3       0       13294.40  25      3916.0   ms
+success		1       26      2       17      2       0       12923.41  24      3916.0   ms
+success		1       27      4       3       4       0       12515.70  23      3916.0   ms
+success		1       28      3       8       3       0       12125.96  22      3916.0   ms
+success		1       29      2       15      2       0       11548.51  21      3916.0   ms
+success		1       30      2       10      2       0       11146.58  20      3916.0   ms
+success		1       31      2       11      2       0       10700.20  19      3916.0   ms
+success		1       32      1       15      1       0       10076.98  18      3916.0   ms
+success		1       33      2       5       2       0       9681.10   17      3916.0   ms
+success		1       34      4       9       4       0       9380.25   16      3916.0   ms
+success		1       35      1       12      1       0       9116.26   15      3916.0   ms
+success		1       36      5       9       5       0       8593.77   14      3916.0   ms
+success		1       37      4       10      4       0       8212.31   13      3916.0   ms
+success		1       38      3       10      3       0       7559.60   12      3916.0   ms
+success		1       39      4       6       4       0       6951.11   11      3916.0   ms
+success		1       40      8       5       6       0       6466.62   10      3916.0   ms
+success		1       41      15      8       8       0       6110.45   9       3916.0   ms
+success		1       42      7       0       4       0       4965.22   8       3931.0   ms
+success		1       43      7       1       7       0       4102.04   7       3931.0   ms
+success		1       44      49      3       7       0       3974.05   6       3978.0   ms
+success		1       0       1       11      1       0       25337.30  50      5101.0   ms
+success		1       1       1       16      1       0       24908.17  49      5101.0   ms
+success		1       2       1       35      1       0       24426.73  48      5101.0   ms
+success		1       3       1       34      1       0       23807.76  47      5101.0   ms
+success		1       4       1       22      1       0       23382.51  46      5101.0   ms
+success		1       5       1       25      1       0       22499.87  45      5101.0   ms
+success		1       6       1       18      1       0       22238.34  44      5101.0   ms
+success		1       7       1       25      1       0       22123.79  43      5101.0   ms
+success		1       8       1       22      1       0       21907.48  42      5101.0   ms
+success		1       9       1       35      1       0       21284.69  41      5101.0   ms
+success		1       10      2       0       2       0       21256.80  40      5101.0   ms
+success		1       11      2       9       2       0       20937.10  39      5117.0   ms
+success		1       12      1       21      1       0       20235.47  38      5117.0   ms
+success		1       13      1       31      1       0       19775.14  37      5117.0   ms
+success		1       14      1       9       1       0       19264.61  36      5117.0   ms
+success		1       15      1       20      1       0       18914.75  35      5117.0   ms
+success		1       16      1       15      1       0       18494.90  34      5117.0   ms
+success		1       17      1       7       1       0       18119.69  33      5117.0   ms
+success		1       18      1       11      1       0       17525.48  32      5117.0   ms
+success		1       19      2       31      2       0       17329.03  31      5117.0   ms
+success		1       20      2       30      2       0       17136.71  30      5117.0   ms
+success		1       21      1       13      1       0       16754.62  29      5117.0   ms
+success		1       22      2       7       2       0       16014.18  28      5117.0   ms
+success		1       23      3       16      3       0       15514.15  27      5117.0   ms
+success		1       24      1       0       1       0       15237.98  26      5117.0   ms
+success		1       25      2       10      2       0       14429.00  25      5117.0   ms
+success		1       26      2       11      2       0       13991.86  24      5117.0   ms
+success		1       27      1       20      1       0       13353.81  23      5117.0   ms
+success		1       28      2       7       2       0       13061.66  22      5117.0   ms
+success		1       29      2       13      2       0       12612.42  21      5117.0   ms
+success		1       30      2       1       2       0       11887.49  20      5117.0   ms
+success		1       31      4       8       4       0       11350.05  19      5117.0   ms
+success		1       32      3       0       3       0       10778.41  18      5117.0   ms
+success		1       33      3       1       3       0       10386.00  17      5117.0   ms
+success		1       34      4       3       4       0       9541.10   16      5117.0   ms
+success		1       35      2       9       2       0       8829.86   15      5117.0   ms
+success		1       36      3       4       3       0       8450.02   14      5117.0   ms
+success		1       37      4       7       4       0       7809.09   13      5117.0   ms
+success		1       38      4       2       4       0       7248.93   12      5117.0   ms
+success		1       39      2       1       2       0       6685.24   11      5117.0   ms
+success		1       40      6       1       4       0       5991.98   10      5117.0   ms
+success		1       41      10      2       2       0       5810.23   9       5117.0   ms
+success		1       42      6       5       6       0       5202.97   8       5117.0   ms
+success		1       43      10      5       9       0       4670.54   7       5117.0   ms
+success		1       44      13      2       9       0       4049.86   6       5132.0   ms
+success		1       0       1       31      1       0       25624.82  50      6193.0   ms
+success		1       1       1       20      1       0       25098.47  49      6193.0   ms
+success		1       2       1       29      1       0       24799.59  48      6193.0   ms
+success		1       3       1       7       1       0       24068.07  47      6193.0   ms
+success		1       4       1       17      1       0       23848.63  46      6193.0   ms
+success		1       5       1       6       1       0       23155.77  45      6193.0   ms
+success		1       6       1       16      1       0       22714.78  44      6193.0   ms
+success		1       7       1       10      1       0       22265.99  43      6193.0   ms
+success		1       8       1       2       1       0       21768.13  42      6193.0   ms
+success		1       9       2       19      2       0       21307.51  41      6193.0   ms
+success		1       10      1       0       1       0       21176.84  40      6193.0   ms
+success		1       11      1       31      1       0       20909.59  39      6193.0   ms
+success		1       12      1       9       1       0       20446.63  38      6193.0   ms
+success		1       13      1       22      1       0       19612.56  37      6193.0   ms
+success		1       14      1       32      1       0       19571.53  36      6193.0   ms
+success		1       15      1       4       1       0       19204.18  35      6193.0   ms
+success		1       16      1       9       1       0       18653.81  34      6193.0   ms
+success		1       17      1       3       1       0       18351.58  33      6193.0   ms
+success		1       18      1       4       1       0       17840.51  32      6193.0   ms
+success		1       19      2       10      2       0       17291.26  31      6193.0   ms
+success		1       20      1       21      1       0       16655.66  30      6193.0   ms
+success		1       21      2       14      2       0       15967.44  29      6193.0   ms
+success		1       22      1       4       1       0       15394.83  28      6193.0   ms
+success		1       23      1       18      1       0       14873.27  27      6193.0   ms
+success		1       24      1       25      1       0       14433.44  26      6193.0   ms
+success		1       25      4       20      4       0       13799.21  25      6193.0   ms
+success		1       26      1       10      1       0       13463.01  24      6193.0   ms
+success		1       27      2       3       2       0       13164.54  23      6193.0   ms
+success		1       28      3       13      3       0       12665.67  22      6193.0   ms
+success		1       29      1       0       1       0       12319.38  21      6193.0   ms
+success		1       30      2       8       2       0       11620.83  20      6193.0   ms
+success		1       31      3       2       3       0       11266.90  19      6193.0   ms
+success		1       32      1       16      1       0       10497.76  18      6193.0   ms
+success		1       33      5       15      5       0       9855.11   17      6193.0   ms
+success		1       34      3       11      3       0       9289.76   16      6193.0   ms
+success		1       35      4       1       4       0       9066.96   15      6193.0   ms
+success		1       36      5       8       5       0       8399.95   14      6193.0   ms
+success		1       37      1       1       1       0       7927.92   13      6193.0   ms
+success		1       38      4       1       4       0       7415.09   12      6193.0   ms
+success		1       39      2       10      2       0       6723.54   11      6193.0   ms
+success		1       40      5       8       5       0       6381.05   10      6193.0   ms
+success		1       41      4       5       4       0       5830.95   9       6193.0   ms
+success		1       42      7       0       5       0       5393.84   8       6193.0   ms
+success		1       43      25      3       8       0       4575.67   7       6224.0   ms
+success		1       44      31      5       9       0       4046.48   6       6256.0   ms
+cross iterater0
+rand   	success		2396.37   4001.56   6       7519.0   ms cross
+rand   	success		2583.09   3916.95   6       7519.0   ms cross
+ab
+ab7	0
+cross iterater1
+ab
+ab7	3
+ab6	2
+fail		2676.19   3992.49   6       8627.0   ms
+fail		2510.17   4030.14   6       9672.0   ms
+cross iterater2
+rand   	success		2547.83   3818.26   6       9703.0   ms cross
+rand   	success		2716.63   3743.46   6       9812.0   ms cross
+ab
+ab6	4
+ab7	2
+fail		2532.27   4238.95   6       10795.0  ms
+cross iterater3
+rand   	success		2421.85   4064.48   6       10795.0  ms cross
+rand   	success		2555.29   3892.94   6       10998.0  ms cross
+ab
+ab7	0
+ab6	2
+cross iterater4
+rand   	success		2513.98   4150.37   6       11060.0  ms cross
+rand   	success		2528.19   4171.16   6       11060.0  ms cross
+ab
+ab6	5
+ab7	3
+cross iterater5
+rand   	success		2550.60   4044.96   6       11076.0  ms cross
+rand   	success		2458.74   3893.96   6       11076.0  ms cross
+ab
+ab6	4
+ab7	5
+cross iterater6
+rand   	success		2621.52   3937.84   6       11107.0  ms cross
+rand   	success		2578.66   4049.04   6       11107.0  ms cross
+ab
+ab6	1
+ab7	4
+fail		2410.14   3695.72   6       12168.0  ms
+cross iterater7
+ab
+ab6	5
+ab7	2
+fail		2545.06   4095.37   6       13587.0  ms
+fail		2349.30   3881.06   6       14851.0  ms
+fail		2382.01   3838.07   6       15990.0  ms
+cross iterater8
+ab
+ab6	1
+fail		2570.80   3848.95   6       16973.0  ms
+fail		2382.01   3838.07   6       17737.0  ms
+cross iterater9
+ab
+ab6	4
+ab7	3
+fail		2411.60   3785.91   6       18579.0  ms
+cross iterater10
+rand   	success		2344.94   4061.12   6       18595.0  ms cross
+rand   	success		2745.00   4031.37   6       18595.0  ms cross
+ab
+ab7	3
+ab6	4
+fail		2549.61   4095.82   6       19515.0  ms
+cross iterater11
+rand   	success		2536.66   3924.10   6       19547.0  ms cross
+rand   	success		2281.95   4200.71   6       19547.0  ms cross
+ab
+ab7	0
+fail		2586.02   3772.21   6       20763.0  ms
+fail		2299.25   3848.60   6       22370.0  ms
+cross iterater12
+rand   	success		2402.73   3988.22   6       22386.0  ms cross
+rand   	success		2495.68   4097.85   6       22386.0  ms cross
+ab
+ab7	5
+ab6	2
+fail		2504.86   3787.98   6       23493.0  ms
+fail		2574.11   4110.83   6       24960.0  ms
+cross iterater13
+rand   	success		2548.62   3856.99   6       24975.0  ms cross
+rand   	success		2344.54   4012.31   6       24975.0  ms cross
+ab
+ab7	5
+ab6	4
+cross iterater14
+rand   	success		2638.71   3733.17   6       24975.0  ms cross
+rand   	success		2433.73   4273.94   6       24975.0  ms cross
+ab
+ab7	4
+fail		2421.65   3994.00   6       26239.0  ms
+cross iterater15
+rand   	success		2488.99   3961.55   6       26270.0  ms cross
+rand   	success		2723.74   3858.37   6       26270.0  ms cross
+ab
+ab7	0
+ab6	5
+cross iterater16
+rand   	success		2687.33   3973.67   6       26270.0  ms cross
+rand   	success		2585.64   4017.10   6       26286.0  ms cross
+ab
+ab6	5
+ab7	2
+fail		2588.51   3935.32   6       27315.0  ms
+cross iterater17
+rand   	fail		2326.55   3936.02   6       28735.0  ms cross
+rand   	
+ab
+ab6	2
+ab7	5
+fail		2563.88   3895.26   6       31231.0  ms
+cross iterater18
+ab
+ab6	5
+fail		2563.88   3895.26   6       32151.0  ms
+cross iterater19
+rand   	success		2564.16   4050.74   6       32214.0  ms cross
+rand   	success		2678.22   4129.87   6       32214.0  ms cross
+ab
+ab6	2
+ab7	4
+fail		2513.14   3916.97   6       33415.0  ms
+cross iterater20
+rand   	success		2639.63   4103.71   6       33430.0  ms cross
+rand   	success		2402.91   4069.28   6       33430.0  ms cross
+ab
+ab6	3
+ab7	1
+cross iterater21
+rand   	success		2538.45   4094.51   6       33430.0  ms cross
+rand   	success		2610.22   4005.37   6       33462.0  ms cross
+ab
+ab6	0
+ab7	4
+fail		2684.45   3948.84   6       34585.0  ms
+cross iterater22
+ab
+ab6	3
+fail		2420.81   3798.76   6       35521.0  ms
+cross iterater23
+rand   	success		2629.05   3962.90   6       35536.0  ms cross
+rand   	success		2588.51   3979.98   6       35661.0  ms cross
+ab
+ab6	2
+ab7	0
+fail		2639.74   4219.15   6       36535.0  ms
+cross iterater24
+rand   	success		2551.36   3987.49   6       36535.0  ms cross
+rand   	success		2801.29   3909.44   6       36660.0  ms cross
+ab
+ab7	0
+fail		2447.81   3971.08   6       37221.0  ms
+cross iterater25
+rand   	success		2587.92   4148.03   6       37221.0  ms cross
+rand   	success		2476.57   4209.93   6       37252.0  ms cross
+ab
+ab6	1
+ab7	4
+fail		2476.82   3810.42   6       37861.0  ms
+fail		2472.98   4004.80   6       38656.0  ms
+cross iterater26
+ab
+ab7	2
+ab6	4
+fail		2402.39   3951.07   6       39546.0  ms
+cross iterater27
+rand   	success		2518.91   3950.58   6       39546.0  ms cross
+rand   	success		2487.44   3786.00   6       39546.0  ms cross
+ab
+ab7	3
+cross iterater28
+rand   	success		2368.57   4006.71   6       39546.0  ms cross
+rand   	success		2597.98   4030.07   6       39546.0  ms cross
+ab
+ab7	5
+ab6	1
+fail		2346.97   3784.19   6       40497.0  ms
+fail		2314.57   3792.31   6       41542.0  ms
+cross iterater29
+rand   	success		2512.40   4250.61   6       41558.0  ms cross
+rand   	success		2620.09   4319.32   6       41605.0  ms cross
+ab
+ab6	3
+ab7	0
+fail		2444.67   3818.91   6       42946.0  ms
+fail		2572.61   4011.31   6       44054.0  ms
+fail		2377.19   3877.44   6       45380.0  ms
+cross iterater30
+rand   	success		2590.43   4165.47   6       45427.0  ms cross
+rand   	success		2450.48   3624.86   6       45427.0  ms cross
+ab
+ab6	3
+ab7	1
+fail		2621.18   4179.86   6       46363.0  ms
+cross iterater31
+rand   	success		2428.17   3731.28   6       46363.0  ms cross
+rand   	success		2462.90   4024.07   6       46394.0  ms cross
+ab
+ab6	4
+fail		2393.51   3869.93   6       47439.0  ms
+cross iterater32
+ab
+ab7	4
+fail		2450.48   3819.89   6       48375.0  ms
+cross iterater33
+rand   	success		2371.59   3698.97   6       48375.0  ms cross
+rand   	success		2526.68   3980.46   6       48375.0  ms cross
+ab
+ab7	2
+cross iterater34
+ab
+ab7	0
+fail		2368.40   3772.76   6       49171.0  ms
+fail		2934.78   4000.05   6       49888.0  ms
+cross iterater35
+rand   	success		2439.02   4077.35   6       49935.0  ms cross
+rand   	success		2724.70   4289.12   6       49982.0  ms cross
+ab
+ab6	4
+ab7	0
+cross iterater36
+ab
+ab6	3
+cross iterater37
+rand   	success		2407.94   3837.91   6       49982.0  ms cross
+rand   	success		2614.76   3882.70   6       50044.0  ms cross
+ab
+ab6	5
+ab7	0
+fail		2340.61   3775.34   6       50809.0  ms
+cross iterater38
+rand   	success		2479.12   3970.65   6       50840.0  ms cross
+rand   	success		2433.89   3943.63   6       50840.0  ms cross
+ab
+ab6	5
+ab7	2
+fail		2397.01   3852.73   6       51557.0  ms
+fail		2380.70   3826.56   6       52696.0  ms
+cross iterater39
+ab
+ab6	5
+ab7	2
+fail		2413.25   4001.85   6       53741.0  ms
+fail		2342.19   3928.93   6       54615.0  ms
+cross iterater40
+rand   	success		2423.61   4013.57   6       54646.0  ms cross
+rand   	success		2493.38   4249.26   6       54677.0  ms cross
+ab
+ab6	3
+ab7	2
+fail		2342.19   3928.93   6       55598.0  ms
+fail		2346.46   3737.49   6       56346.0  ms
+cross iterater41
+ab
+ab6	5
+ab7	4
+fail		2319.86   3807.62   6       57095.0  ms
+cross iterater42
+rand   	success		2388.39   4136.96   6       57111.0  ms cross
+rand   	success		2508.27   4039.84   6       57189.0  ms cross
+ab
+ab6	1
+ab7	3
+fail		2393.58   3751.97   6       58218.0  ms
+fail		2554.87   4198.76   6       59388.0  ms
+fail		2367.96   3913.44   6       60527.0  ms
+fail		2585.38   4225.27   6       61557.0  ms
+cross iterater43
+rand   	success		2426.03   4239.98   6       61572.0  ms cross
+rand   	success		2677.93   4071.76   6       61572.0  ms cross
+ab
+ab6	5
+cross iterater44
+rand   	success		2500.16   3965.37   6       61713.0  ms cross
+rand   	success		2373.26   3864.31   6       61713.0  ms cross
+ab
+ab6	3
+fail		2276.48   3844.35   6       63195.0  ms
+cross iterater45
+ab
+ab6	2
+ab7	5
+fail		2557.99   3846.24   6       64380.0  ms
+cross iterater46
+rand   	success		2537.93   3942.95   6       64458.0  ms cross
+rand   	fail		2508.75   3799.38   6       65504.0  ms cross
+ab
+ab6	5
+fail		2474.00   3964.75   6       66455.0  ms
+fail		2557.99   3846.24   6       67532.0  ms
+cross iterater47
+ab
+ab7	3
+cross iterater48
+rand   	
+rand   	success		2432.52   3603.41   6       68499.0  ms cross
+ab
+ab7	3
+fail		2544.16   3753.40   6       69560.0  ms
+cross iterater49
+rand   	success		2482.57   4229.26   6       69575.0  ms cross
+rand   	success		2493.67   4170.24   6       69606.0  ms cross
+ab
+ab6	0
+ab7	4
+fail		2446.87   3852.96   6       70620.0  ms
+cross iterater50
+rand   	success		2525.92   4184.99   6       70620.0  ms cross
+rand   	success		2319.24   4091.32   6       70652.0  ms cross
+ab
+ab6	1
+ab7	3
+fail		2579.19   3810.04   6       71603.0  ms
+fail		2469.66   3708.58   6       72976.0  ms
+fail		2353.20   3970.39   6       73803.0  ms
+cross iterater51
+rand   	success		2280.48   3771.89   6       73849.0  ms cross
+rand   	fail		2411.46   3749.76   6       75409.0  ms cross
+ab
+ab6	3
+fail		2591.43   3948.45   6       76673.0  ms
+cross iterater52
+rand   	success		2590.31   4343.64   6       76720.0  ms cross
+rand   	success		2693.84   3731.30   6       76720.0  ms cross
+ab
+ab6	0
+cross iterater53
+rand   	success		2536.81   3791.93   6       76720.0  ms cross
+rand   	success		2623.48   3926.34   6       76751.0  ms cross
+ab
+ab7	1
+ab6	5
+cross iterater54
+rand   	success		2680.18   4054.68   6       76767.0  ms cross
+rand   	success		2747.23   3957.73   6       76767.0  ms cross
+ab
+ab7	3
+ab6	1
+fail		2486.26   3746.94   6       77905.0  ms
+fail		2525.36   3751.19   6       79294.0  ms
+cross iterater55
+rand   	success		2417.06   4190.35   6       79294.0  ms cross
+rand   	success		2605.90   4182.04   6       79294.0  ms cross
+ab
+ab7	0
+ab6	2
+cross iterater56
+ab
+ab6	2
+ab7	4
+fail		2396.59   3848.55   6       80464.0  ms
+fail		2693.84   4004.00   6       81540.0  ms
+cross iterater57
+rand   	success		2467.62   4042.98   6       81540.0  ms cross
+rand   	success		2437.39   4006.69   6       81540.0  ms cross
+ab
+ab6	0
+ab7	5
+fail		2396.59   3848.55   6       82476.0  ms
+cross iterater58
+rand   	success		2704.63   4097.94   6       82492.0  ms cross
+rand   	success		2613.97   4000.76   6       82507.0  ms cross
+ab
+ab6	3
+ab7	5
+cross iterater59
+rand   	success		2833.87   4063.88   6       82523.0  ms cross
+rand   	success		2732.76   3957.70   6       82539.0  ms cross
+ab
+ab6	1
+ab7	2
+cross iterater60
+rand   	success		2370.94   3859.48   6       82539.0  ms cross
+rand   	success		2511.97   4025.07   6       82554.0  ms cross
+ab
+ab6	0
+ab7	4
+fail		2317.11   3758.52   6       83334.0  ms
+cross iterater61
+rand   	success		2628.07   3960.26   6       83428.0  ms cross
+rand   	success		2398.85   3703.62   6       83428.0  ms cross
+ab
+ab6	4
+ab7	1
+fail		2372.48   3838.14   6       84333.0  ms
+fail		2519.64   3954.56   6       85409.0  ms
+cross iterater62
+rand   	success		2503.29   4117.80   6       85425.0  ms cross
+rand   	success		2578.74   3893.24   6       85425.0  ms cross
+ab
+ab6	4
+ab7	3
+cross iterater63
+rand   	success		2315.37   4080.19   6       85425.0  ms cross
+rand   	success		2503.16   4079.45   6       85425.0  ms cross
+ab
+ab6	4
+ab7	3
+fail		2445.31   3861.17   6       86782.0  ms
+fail		2492.69   3831.08   6       88357.0  ms
+cross iterater64
+rand   	success		2386.31   4123.44   6       88373.0  ms cross
+rand   	success		2604.23   4138.55   6       88388.0  ms cross
+ab
+ab7	4
+ab6	0
+fail		2400.94   3718.98   6       89215.0  ms
+cross iterater65
+rand   	success		2616.74   3745.16   6       89246.0  ms cross
+rand   	success		2698.59   4290.75   6       89356.0  ms cross
+ab
+ab6	3
+ab7	4
+fail		2546.49   3959.66   6       90338.0  ms
+fail		2483.52   4025.49   6       91914.0  ms
+cross iterater66
+rand   	success		2689.95   4223.71   6       91976.0  ms cross
+rand   	success		2581.34   3932.15   6       92179.0  ms cross
+ab
+ab6	0
+fail		2459.67   3912.89   6       93817.0  ms
+fail		2414.02   4064.84   6       95065.0  ms
+cross iterater67
+rand   	success		2404.46   4318.01   6       95081.0  ms cross
+rand   	success		2587.22   4168.41   6       95112.0  ms cross
+ab
+ab6	1
+ab7	4
+fail		2346.55   4053.12   6       95783.0  ms
+fail		2449.91   4014.33   6       97140.0  ms
+fail		2551.69   3964.28   6       98388.0  ms
+cross iterater68
+rand   	success		2402.12   3598.84   6       98404.0  ms cross
+rand   	success		2416.66   3967.77   6       98762.0  ms cross
+ab
+ab7	2
+fail		2572.04   3814.85   6       99854.0  ms
+fail		2540.80   4102.79   6       100541.0 ms
+cross iterater69
+rand   	success		2542.52   4044.74   6       100541.0 ms cross
+rand   	success		2692.24   4070.15   6       100588.0 ms cross
+ab
+ab6	1
+cross iterater70
+rand   	success		2373.64   4053.70   6       100588.0 ms cross
+rand   	success		2412.07   4134.21   6       100588.0 ms cross
+ab
+ab6	2
+ab7	5
+fail		2506.69   3814.14   6       101336.0 ms
+cross iterater71
+rand   	success		2451.05   4040.60   6       101336.0 ms cross
+rand   	success		2578.21   3997.90   6       101352.0 ms cross
+ab
+ab7	0
+fail		2330.08   3967.79   6       101914.0 ms
+fail		2430.87   3960.15   6       102990.0 ms
+fail		2568.07   4015.09   6       103629.0 ms
+fail		2346.39   3949.40   6       104940.0 ms
+cross iterater72
+ab
+ab7	2
+fail		2484.70   3890.04   6       106157.0 ms
+fail		2346.39   3949.40   6       107405.0 ms
+cross iterater73
+rand   	success		2528.97   3857.10   6       107405.0 ms cross
+rand   	success		2535.82   4012.56   6       107405.0 ms cross
+ab
+ab7	0
+fail		2646.73   4282.20   6       108497.0 ms
+cross iterater74
+rand   	success		2439.27   4059.89   6       108497.0 ms cross
+rand   	success		2475.25   3854.83   6       108512.0 ms cross
+ab
+ab7	0
+cross iterater75
+rand   	success		2456.03   3976.71   6       108528.0 ms cross
+rand   	success		2536.61   4066.39   6       108528.0 ms cross
+ab
+ab7	4
+ab6	0
+fail		2402.12   3855.84   6       109698.0 ms
+fail		2529.50   4024.30   6       110759.0 ms
+cross iterater76
+rand   	success		2407.20   3720.31   6       110759.0 ms cross
+rand   	success		2460.08   3832.00   6       110759.0 ms cross
+ab
+ab6	4
+fail		2696.99   4144.72   6       111757.0 ms
+fail		2373.18   4062.47   6       112896.0 ms
+fail		2489.98   3764.70   6       113910.0 ms
+cross iterater77
+rand   	success		2464.31   4234.83   6       113941.0 ms cross
+rand   	success		2371.60   3901.25   6       113941.0 ms cross
+ab
+ab6	4
+fail		2234.72   4082.71   6       115407.0 ms
+cross iterater78
+rand   	success		2579.03   3762.52   6       115407.0 ms cross
+rand   	success		2408.25   4039.15   6       115423.0 ms cross
+ab
+ab6	1
+fail		2407.78   4066.28   6       116655.0 ms
+cross iterater79
+ab
+ab7	2
+ab6	3
+fail		2612.79   3762.48   6       117498.0 ms
+fail		2277.60   3883.25   6       118215.0 ms
+fail		2579.03   3950.51   6       119370.0 ms
+cross iterater80
+ab
+ab7	3
+ab6	4
+cross iterater81
+rand   	success		2667.45   3959.91   6       119385.0 ms cross
+rand   	success		2507.65   4071.26   6       119401.0 ms cross
+ab
+ab7	1
+ab6	0
+fail		2552.18   4216.24   6       120477.0 ms
+cross iterater82
+rand   	success		2487.26   4062.95   6       120493.0 ms cross
+rand   	success		2417.18   3996.33   6       120508.0 ms cross
+ab
+ab7	1
+ab6	5
+fail		2359.64   3835.58   6       121226.0 ms
+fail		2514.98   3812.84   6       121866.0 ms
+fail		2555.63   3829.09   6       122599.0 ms
+cross iterater83
+rand   	success		2618.24   3992.18   6       122630.0 ms cross
+rand   	success		2554.71   3983.21   6       122630.0 ms cross
+ab
+ab7	3
+ab6	0
+cross iterater84
+rand   	success		2682.52   3722.15   6       122630.0 ms cross
+rand   	success		2773.07   3821.27   6       122630.0 ms cross
+ab
+ab7	0
+fail		2540.10   3774.70   6       123316.0 ms
+cross iterater85
+rand   	success		2714.68   4156.11   6       123379.0 ms cross
+rand   	success		2609.91   4191.53   6       123410.0 ms cross
+ab
+ab6	3
+ab7	0
+fail		2381.06   3669.23   6       123972.0 ms
+fail		2692.17   4143.99   6       125110.0 ms
+cross iterater86
+rand   	success		2509.78   3967.61   6       125110.0 ms cross
+rand   	success		2692.10   4115.67   6       125110.0 ms cross
+ab
+ab6	4
+fail		2337.04   3710.80   6       126452.0 ms
+cross iterater87
+rand   	success		2613.12   4131.80   6       126452.0 ms cross
+rand   	success		2601.27   4011.23   6       126452.0 ms cross
+ab
+ab6	3
+ab7	2
+fail		2455.02   3781.28   6       127669.0 ms
+cross iterater88
+rand   	success		2471.06   4021.76   6       127669.0 ms cross
+rand   	success		2526.86   4078.16   6       127684.0 ms cross
+ab
+ab6	5
+ab7	0
+fail		2514.70   3903.30   6       128792.0 ms
+cross iterater89
+rand   	success		2429.49   3778.85   6       128808.0 ms cross
+rand   	success		2448.74   4054.50   6       128808.0 ms cross
+ab
+ab6	2
+ab7	5
+cross iterater90
+ab
+fail		2312.59   4135.01   6       129900.0 ms
+fail		2429.49   4018.85   6       130836.0 ms
+cross iterater91
+rand   	success		2575.36   4031.09   6       130851.0 ms cross
+rand   	success		2522.45   3998.74   6       130882.0 ms cross
+ab
+ab6	1
+fail		2379.26   3861.23   6       132068.0 ms
+cross iterater92
+rand   	success		2469.96   4047.67   6       132068.0 ms cross
+rand   	success		2400.65   4344.07   6       132084.0 ms cross
+ab
+ab6	3
+ab7	0
+fail		2310.79   3793.80   6       133020.0 ms
+fail		2382.19   3756.02   6       134018.0 ms
+cross iterater93
+rand   	success		2459.58   4358.24   6       134018.0 ms cross
+rand   	success		2597.79   3878.95   6       134033.0 ms cross
+ab
+ab7	5
+ab6	3
+fail		2338.70   3744.76   6       134813.0 ms
+cross iterater94
+ab
+ab7	4
+fail		2381.24   3889.40   6       135703.0 ms
+cross iterater95
+rand   	success		2617.16   4211.32   6       135749.0 ms cross
+rand   	success		2419.45   4087.17   6       135765.0 ms cross
+ab
+ab7	0
+ab6	5
+fail		2381.61   3831.17   6       136654.0 ms
+cross iterater96
+rand   	success		2294.82   3988.47   6       136654.0 ms cross
+rand   	success		2631.37   4094.03   6       136670.0 ms cross
+ab
+ab6	1
+ab7	0
+fail		2250.52   3877.08   6       138121.0 ms
+fail		2410.82   3873.92   6       138979.0 ms
+cross iterater97
+rand   	success		2451.19   3844.00   6       138994.0 ms cross
+rand   	success		2545.50   4241.47   6       138994.0 ms cross
+ab
+ab7	3
+ab6	5
+fail		2381.61   3831.17   6       140180.0 ms
+cross iterater98
+rand   	success		2354.07   3914.16   6       140180.0 ms cross
+rand   	success		2425.27   3803.86   6       140180.0 ms cross
+ab
+ab7	1
+fail		2250.52   3877.08   6       141053.0 ms
+cross iterater99
+rand   	success		2714.81   4132.81   6       141085.0 ms cross
+rand   	success		2540.53   4003.09   6       141131.0 ms cross
+ab
+ab7	1
+ab6	0
+
+R.size:6
+
+1		92	42	14	45	47	36	82	11	64	98	61	99	16	73	22	87	26	55	54	43	13	74	4	58	80	77	
+2		59	95	83	5	39	67	7	90	85	6	94	10	20	50	32	66	35	1	70	91	93	89	
+3		52	27	88	30	76	40	8	18	84	102	53	34	3	46	37	68	25	101	24	100	
+4		2	72	15	21	75	23	29	81	41	57	56	97	
+5		65	33	63	69	31	28	12	19	62	71	79	78	9	51	49	17	48	60	
+6		38	44	86	96	
+
+data1/pdp100/lr201.txt
+total_cost 2250.523120
+

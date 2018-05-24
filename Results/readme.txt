@@ -1,0 +1,3 @@
+The file "Solutions_with_ourGGA-GES" contains the results obtained by our algorithm GGA-GES.
+The file "Solutions_with_TraditionalGGA" contains the results obtained by the algorithm with the traditional GGA and our improved GES. The purpose of this experiment is to test the effectiveness of our improved GGA algorithm, the guided crossover and mutation operations.
+The file "Solutions_with_TraditionalGES" contains the results obtained by the algorithm with our improved GGA and the traditional GES. The purpose of this experiment is to test the effectiveness of our improved GES algorithm, the creating a new route operator in the GES-local search.
